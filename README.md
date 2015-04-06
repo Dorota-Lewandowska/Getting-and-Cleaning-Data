@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<!-- saved from url=(0085)file:///C:/Users/Administrator/AppData/Local/Temp/RtmpA9KJXe/Preview-10e83162f2e.html -->
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<meta charset="utf-8">
-
-<meta http-equiv="Content-Style-Type" content="text/css">
-<meta name="generator" content="pandoc">
-
 
 
 <title>Getting and Cleaning data - steps needed to run my work project</title>
